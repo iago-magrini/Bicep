@@ -1,4 +1,4 @@
-param storageAccountName string = 'st-test-01'
+param storageAccountName string = 'staccountiago'
 param containerName string = 'st-test-01'
 param location string = resourceGroup().location
 
